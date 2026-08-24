@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+/.pnpm
+/.yarn
+
+# Next.js build outputs
+/.next/
+/out/
+/build
+
+# Environment files - NEVER commit secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE & OS files
+.DS_Store
+*.pem
+.vscode
+.idea
