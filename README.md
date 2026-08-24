@@ -220,12 +220,4 @@ fraudnexus/
 ├── .env.example             # Environment variable template
 ├── package.json
 └── README.md
-```
 
----
-
-## 📄 License & Submissions
-
-- **Submitted to**: hr@wexa.ai
-- **Subject**: CognoDB Assignment 2 – Bhavya
-- **Built for**: Wexa AI Take-Home Assignment
